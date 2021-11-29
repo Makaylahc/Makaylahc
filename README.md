@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Makaylah Cowan (@Makaylahc)
-- I'm a current Colby College Computational Environmental Science major, minoring in Statistics. 
+- I'm a current Colby College Computational Environmental Science and Statistics double major. 
 - I’m interested in data science and its applications in real world models, especially relating to environmental appliations.
 - I have experience in data mining and data visualization in R and Python.
 - I'm currently doing data analysis research on the social acceptance of renewable energy in New England and developing an educational app for tree identification.
